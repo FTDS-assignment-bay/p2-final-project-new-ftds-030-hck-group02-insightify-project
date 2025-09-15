@@ -45,9 +45,10 @@ Design strategies to improve Return on Investment (ROI).
    - ROI estimation.
    - Deployment
 
-5. Streamlit/HuggingFace App:
+5. Streamlit App:
    - Input: user attributes (age, income, historical spending, product categories).
    - Output: prediction of whether the campaign is on target along with the estimated uplift.
+   - Link Deployment : https://causalinferencemodel.streamlit.app/
 
 ---
 
@@ -94,3 +95,4 @@ conda activate insightify
    - Prepared model artifacts and environment setup for deployment.
 
    - Ensured the Streamlit application runs smoothly in production.
+
