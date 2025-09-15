@@ -70,7 +70,7 @@ conda activate insightify
 
 ---
 
-👥 Project Team & Contributions
+## 👥 Project Team & Contributions
 
 - Ilham Maulud – Data Analyst | [Github](https://github.com/ilhammaulud) | [LinkedIn](https://www.linkedin.com/in/ilham-maulud/)
 
@@ -95,5 +95,6 @@ conda activate insightify
    - Prepared model artifacts and environment setup for deployment.
 
    - Ensured the Streamlit application runs smoothly in production.
+
 
 
