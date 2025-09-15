@@ -6,9 +6,9 @@ The system measures the true impact of campaigns on customer spending behavior u
 
 With Insightify, businesses can:
 
-Identify the best customer segments for campaigns.
-Determine the optimal timing for campaigns.
-Design strategies to improve Return on Investment (ROI).
+- Identify the best customer segments for campaigns.
+- Determine the optimal timing for campaigns.
+- Design strategies to improve Return on Investment (ROI).
 
 ---
 
@@ -95,4 +95,5 @@ conda activate insightify
    - Prepared model artifacts and environment setup for deployment.
 
    - Ensured the Streamlit application runs smoothly in production.
+
 
