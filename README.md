@@ -14,8 +14,11 @@ Design strategies to improve Return on Investment (ROI).
 
 ## 🎯 Project Objectives
 1.Estimate the causal impact of campaigns (Average Treatment Effect / ATE).
+
 2.Explore heterogeneity of effects (CATE/ITE) across segments or individuals.
+
 3.Predict whether a campaign is on target or off target for a customer.
+
 4.Build an interactive application (Streamlit/HuggingFace) for prediction simulation.
 
 ---
@@ -62,3 +65,32 @@ Instalasi dengan Conda:
 conda env create -f environment.yml
 
 conda activate insightify
+```
+
+---
+
+👥 Project Team & Contributions
+
+- Ilham Maulud – Data Analyst | [Github](https://github.com/ilhammaulud) | [LinkedIn](https://www.linkedin.com/in/ilham-maulud/)
+
+   - Performed data cleaning and preparation.
+
+   - Conducted Exploratory Data Analysis (EDA).
+
+   - Created visualizations to identify customer behavior patterns and key insights.
+
+- Nindia Ekasuci Larasati – Data Scientist | [Github](https://github.com/NindiaEka) | [LinkedIn](https://www.linkedin.com/in/nindia-ekasuci-larasati/)
+
+   - Designed and implemented causal inference methodologies (ATE, CATE, ITE).
+
+   - Applied methods: OLS Regression Adjustment, PSM, IPW, Doubly Robust Learner, and Causal Forest.
+
+   - Built and deployed an interactive application using Streamlit for campaign effectiveness simulation.
+
+- Muhammad Luthfi Alfatih – Data Engineer | [Github](https://github.com/upilup) | [LinkedIn](https://www.linkedin.com/in/luthfialfatih/)
+
+   - Managed data integration and preprocessing to ensure data quality.
+
+   - Prepared model artifacts and environment setup for deployment.
+
+   - Ensured the Streamlit application runs smoothly in production.
